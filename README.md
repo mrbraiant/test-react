@@ -10,13 +10,13 @@
 - II. Make sure to have NPM v.5.6.0+ and Node v.10.0.0+ installed;
 - III. Inside this folder cloned type "npm install" to npm will prepare libraries and dependencies;
 - IV. Now just type "npm start" and have fun \o/;
-## Playing
+## :arrow_forward: Playing
 - I. Click on 'Buscar dre' to activate select filter;
 - II. Select one of options in Select;
 - III. Click on "Gerar Tabela" to make a filtered table by your click choice;
 - IV. If you wanna use "Tabela" just click on "Buscar" at first cointaner named "tabela" to show all Tables;
 - V. You can type any DRE to filter though, but you just can see that in Console when you Select any Options;
-- VI. Thats all, special thanks for LoneWolf Company Developers 🍻 :smile:
+- VI. Thats all, special thanks for LoneWolf Corp. Developers 🍻 :smile:
 <div>
   <img alt="test-react" height="100%" width="100%" src="https://github.com/mrbraiant/test-react/blob/master/test-react.gif">
 </div>
