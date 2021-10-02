@@ -1,11 +1,11 @@
 ## Hey there! 
 ## That's my studies of React that I've tryed to fetch some datas of open API and rendering in table and select.
 
-- Requirements:
+## Requirements:
 - NPM Version: 5.6.0
 - Node Version 10.0.0
 
-- Installing:
+## Installing:
 - I. Clone this repository in Master branch;
 - II. Make sure to have NPM installed;
 - III. Inside this folder cloned type "npm install" to npm prepare libraries and dependencies;
