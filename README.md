@@ -3,7 +3,7 @@
 
 ## :computer: Requirements:
 - NPM Version: 5.6.0
-- Node Version 10.0.0
+- Node Version: 10.0.0
 
 ## :keyboard: Installing:
 - I. Clone this repository in Master branch;
@@ -11,7 +11,7 @@
 - III. Inside this folder cloned type "npm install" to npm will prepare libraries and dependencies;
 - IV. Now just type "npm start" and have fun \o/;
 ## :arrow_forward: Playing
-- I. Click on 'Buscar dre' to activate select filter;
+- I. Click on "Buscar dre" to activate select filter;
 - II. Select one of options in Select;
 - III. Click on "Gerar Tabela" to make a filtered table by your click choice;
 - IV. If you wanna use "Tabela" just click on "Buscar" at first cointaner named "tabela" to show all Tables;
