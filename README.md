@@ -1,5 +1,5 @@
 ## Hey there! 
-## That's my studies of React that I've tryed to fetch some datas of open API and rendering in table and select.
+# That's my studies of React that I've tryed to fetch some datas of open API and rendering in table and select.
 
 ## Requirements:
 - NPM Version: 5.6.0
