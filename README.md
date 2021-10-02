@@ -14,7 +14,7 @@
   * IV. Now just type "npm start" and have fun \o/;
 </div>
 <div>
-  <img alt="test-react" height="500" width="500" src="https://github.com/mrbraiant/test-react/blob/master/teste-react.jpg">
+  <img alt="test-react" height="100%" width="100%" src="https://github.com/mrbraiant/test-react/blob/master/teste-react.jpg">
 </div>
 
 
