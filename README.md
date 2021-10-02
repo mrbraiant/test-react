@@ -17,7 +17,7 @@
 - IV. If you wanna use "Tabela" just click on "Buscar" at first cointaner named "tabela" to show all Tables;
 - V. You can type any DRE to filter though, but you just can see that in Console when you Select any Options;
 - VI. Thats all, special thanks for LoneWolf Corp. Developers 🍻 :smile:
-## Below demonstration...
+## Below a demo...
 <div>
   <img alt="test-react" height="100%" width="100%" src="https://github.com/mrbraiant/test-react/blob/master/test-react.gif">
 </div>
