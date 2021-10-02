@@ -8,7 +8,7 @@
 ## :keyboard: Installing:
 - I. Clone this repository in Master branch;
 - II. Make sure to have NPM v.5.6.0+ and Node v.10.0.0+ already installed;
-- III. Inside this folder cloned type "npm install" to npm will prepare libraries and dependencies;
+- III. Inside this folder cloned, open your terminal/cmd/VSCode and type "npm install" to npm prepare the libraries and dependencies;
 - IV. Now just type "npm start" and have fun \o/;
 ## :arrow_forward: Playing
 - I. Click on "Buscar dre" to activate select filter;
