@@ -1,3 +1,3 @@
-### :pushpin: Hey there :smile:
+### :pushpin: Hey there
 :detective: This project can be find in Master branch, please make sure you in there or just chose Master branch.
-Thanks.
+:smile: Thanks.
