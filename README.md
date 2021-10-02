@@ -15,6 +15,13 @@
   <img alt="test-react" height="100%" width="100%" src="https://github.com/mrbraiant/test-react/blob/master/test-react.gif">
 </div>
 ##
-####
+##
+## Playing
+- I. Click on 'Buscar dre' to activate select filter;
+- II. Sekect one of options in Select;
+- III. Click on 'Gerar Tabela" to make a filtered table by your click choice;
+- IV. If you wanna use "Tabela" just click on "Buscar" at first cointaner named "tabela" to show all Tables;
+- V. You can type any DRE to filter though, but you just can see that in Console when you Select any Options;
+- Thats all 😄 
 
 
